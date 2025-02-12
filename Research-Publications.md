@@ -1,4 +1,7 @@
 # My-Research-Publications
+
+This repository contains a list of my peer-reviewed publications, including articles published in reputable journals and papers presented at renowned international conferences. The list provides details such as authors, titles, publication venues, and publication years. For easy access to the full papers and citations, a link to my Google Scholar profile is also included.
+
 **Journals**
 1.	Satya Srinivas Vemuri, A.D. Sarma and Hema K Achanta, “Modeling of Ionospheric Time Delay Using Anisotropic IDW with Jackknife Technique”, IEEE transactions on Geoscience and Remote Sensing, Vol.54, No.1, January 2016 (DOI:10.1109/TGRS.2015.2461017)
 2.	Vemuri Satya Srinivas, Achanta D. Sarma, Ammana Supraja Reddy and Desireddy Krishna Reddy, Investigation of the Effect of Ionospheric Gradients on GPS Signals in the Context of LAAS, Progress In Electromagnetics Research B, U.S.A., Vol. 57, pp.191-205, 2014 (ISSN:1937-6472, Impact Factor (2013):3.76,  doi:10.2528/PIERB13101305).
