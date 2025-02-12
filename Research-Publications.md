@@ -1,6 +1,6 @@
 # My-Research-Publications
 
-This repository contains a list of my peer-reviewed publications, including articles published in reputable journals and papers presented at renowned international conferences. The list provides details such as authors, titles, publication venues, and publication years. For easy access to the full papers and citations, a link to my Google Scholar profile is also included.
+This repository contains a list of my peer-reviewed publications, including articles published in reputable journals and papers presented at renowned international conferences. The list provides details such as authors, titles, publication venues, and publication years. For easy access to the full papers and citations, a link to my Google Scholar profile is also included, https://scholar.google.com/citations?user=c_ejU1oAAAAJ&hl=en.
 
 **Journals**
 1.	Satya Srinivas Vemuri, A.D. Sarma and Hema K Achanta, “Modeling of Ionospheric Time Delay Using Anisotropic IDW with Jackknife Technique”, IEEE transactions on Geoscience and Remote Sensing, Vol.54, No.1, January 2016 (DOI:10.1109/TGRS.2015.2461017)
