@@ -30,3 +30,15 @@
 16.	A.D. Sarma, Satya Srinivas Vemuri, D. Venkata Ratnam and B.M. Reddy, “Robust Ionospheric Threat Model for Low Latitude Stations in the Context of GBAS", Ionospheric Effects Symposium IES-2011, Alxandria, V.A., U.S., 17-19, May 2011. 
 17.	K. Yedukondalu, A.D. Sarma and Satya Srinivas Vemuri, “Multipath Mitigation Using LMS Adaptive Filtering for GPS Applications” (IEEE 2009), 4th International Conference on Computers & Devices for communication, Institute of Radio Physics and Electronics, University of Calcutta, Kolkata, India, December 14-16 2009. 
 18.	K. Yedukondalu, A.D. Sarma and Satya Srinivas Vemuri, “Analysis of Multipath Interference Error of GPS Receiver”, International conference on Recent Advances in Communication Engineering (RACE), Dept. of ECE, Osmania University, Hyderabad, December 20- 23, 2008.
+
+
+**National Conferences**
+1.	V. Satya Srinivas, M. Satyanarayana, D.Venkata Ratnam and P. Sudhakar, “Investigation of Linear Combinations of Modernized GPS signals to mitigate the effect of Ionosphere”,  19th  National Space Science Symposium (NSSS), Vikram Sarabhai Space Centre, Thiruvananthapuram, Kerala, 9-12 Feb. 2016. 
+2.	V. Satya Srinivas, Suneetha E, D. Krishna Reddy, K. Satyanarayana and A.D. Sarma “Performance 
+Evaluations of Fast Satellite Selection Techniques for GNSS”, 29th National Convention of Electronics and Telecommunication   Engineers and National Seminar on “Emerging Trends in Electronics and Telecommunication Engineering”, Institute of Engineers, Hyderabad, 29-30 October, 2013.
+3.	K.C.T. Swamy, A.D.Sarma, V.Satya Srinivas and G. Venkateswarlu, “Modelling of Ionospheric Scintilltions with Least Squares Adjustment Technique for GPS Applications”, 17th National Space Science Symposium – NSSS, Feb. 14-17, 2012.
+4.	A. Supraja Reddy, V. Satya Srinivas and A.D. Sarma, “Performance Analysis of Divergence-free Smoothing Techniques for LAAS”, 17th National Space Science Symposium – NSSS, Feb. 14-17, 2012.
+5.	K.C.T. Swamy, A.D.Sarma, V.Satya Srinivas, P.V.D. Somasekhar Rao, and G. Venkateswarlu, “Analysis of Ionospheric Scintillations Effect on Indian Satellite Based Augmentation System Receiver”, AICTE-ISTE sponsored National Seminar on “Recent Advances and Technology on Telecommunication Systems”, Dept. of ECE, GIET, Gunpur, Odisha, India, 2011.
+6.	Satya Srinivas Vemuri, A.D. Sarma and A. Supraja Reddy, “Effect of Ionopheric Gradients on Evaluation of GPS DOP”, 16th National Space Science Symposium (NSSS 2010), Dept. of Physics, Saurashtra Univesity, Rajkot, 24th – 27th February 2010. 
+7.	Satya Srinivas Vemuri, A.D. Sarma and K. Ravichandra, “Ionopsheric Time delay Statistics of GPS Signals at Low Latitude Stations”, National Symposium on Antennas and propagation (APSYM 2008), Cochin University of Science & Technology, Kochi, December 29-31, 2008.
+8.	Satya Srinivas Vemuri, Ravi Chandra K and A.D. Sarma, “An Improved Technique for Cycle Slip Detection and correction of GPS signals”, National Conf. on Intelligent Systems, Hyderabad, August 24-25, 2007.
